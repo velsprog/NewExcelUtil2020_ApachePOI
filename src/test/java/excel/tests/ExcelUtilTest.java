@@ -15,6 +15,8 @@ public class ExcelUtilTest {
 		
 		int rowCount = reader.getRowCount(sheetName);
 		System.out.println("total rows: "+ rowCount);
+
+
 		
 		//reader.addColumn(sheetName, "status");
 		
